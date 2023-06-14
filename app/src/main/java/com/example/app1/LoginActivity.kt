@@ -36,6 +36,10 @@ class LoginActivity : AppCompatActivity() {
                 val intent = Intent(this, MainActivity::class.java)
                 startActivity(intent)
                 finish()
+            } else if (usuario == "arronra" && contra == "alvi"){
+                val intent = Intent(this, MainActivity::class.java)
+                startActivity(intent)
+                finish()
             } else {
                 Toast.makeText(this, "Usuario y/o contraseña incorrecta", Toast.LENGTH_SHORT).show()
             }

@@ -10,4 +10,5 @@
     <string name="txtLogin">INICIO DE SESIÓN</string>
     <string name="btnLogin">INICIAR SESIÓN</string>
     <string name="btnCerrar">CERRAR SESIÓN</string>
+    <string name="extra">Gracias por su preferencia</string>
 </resources>
