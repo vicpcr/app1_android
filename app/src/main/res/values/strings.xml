@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">app1</string>
+    <string name="tittle">CALCULADORA BÁSICA</string>
+    <string name="num1">Número 1</string>
+    <string name="num2">Número 2</string>
+    <string name="btnSum">SUMAR</string>
+    <string name="btnRes">RESTAR</string>
+    <string name="btnMul">MUlTIPLICAR</string>
+    <string name="btnDiv">DIVIDIR</string>
+    <string name="txtLogin">INICIO DE SESIÓN</string>
+    <string name="btnLogin">INICIAR SESIÓN</string>
+    <string name="btnCerrar">CERRAR SESIÓN</string>
+</resources>
